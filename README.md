@@ -18,7 +18,11 @@ This project implements a simple single-port RAM using Verilog, along with a tes
 1. Use **EDA Playground** or any simulator like ModelSim/Questa/VCS.  
 2. Run the following command:
 
-## 🖥 Sample Output
+## 📊 Simulation Waveform Output
+
+Below is the waveform output of the Single Port RAM:
+
+![Waveform Output](waveform.png)
 
 
 ---
