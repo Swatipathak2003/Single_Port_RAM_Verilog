@@ -19,7 +19,7 @@ This project implements a simple single-port RAM using Verilog, along with a tes
 2. Run the following command:
 
 ## 🖥 Sample Output
-(VCD waveform screenshots or terminal output)
+
 
 ---
 ## 🤝 Contributing
